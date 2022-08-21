@@ -1,0 +1,7 @@
+{
+  "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
+  "title": "Hello Node!",
+  "description": "A simple Node site built with Glitch. Remix it to get your own.",
+  "url": "https://sqares.boochat.cluster.ws",
+  "image":"https://cdn.glitch.global/369308d3-e8a9-4bc9-b120-5d29a9984434/untitled.png?v=1660760016526"
+}
